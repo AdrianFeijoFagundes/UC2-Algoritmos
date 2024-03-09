@@ -1,0 +1,4 @@
+Verificar se existe uma lampada que possa ser usada no local
+se não existir ir comprar
+quando voltar para casa desligar a luz
+
