@@ -2,5 +2,5 @@
 // .toLowerCase()
 // .toUpperCase()
 // .trim()
-// .includes()
+// .includes() tem no array tbm
 // .replaceAll()
