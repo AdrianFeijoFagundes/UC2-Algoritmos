@@ -1,4 +1,5 @@
-// calcular media informada pelo usuario
+// Calcular a média de 5 números: Utilize um loop for para ler 5 números do usuário
+// e calcular a média dos números digitados. Mostre a média no console.
 const readlineSync = require('readline-sync')
 
 

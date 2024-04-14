@@ -1,3 +1,6 @@
+// Ler 10 números do usuário e mostrar o maior e o menor número digitado:
+// Utilize um loop for para ler 10 números do usuário e encontrar o maior e o menor
+// número digitado. Mostre os resultados no console.
 const readlineSync = require('readline-sync')
 
 
