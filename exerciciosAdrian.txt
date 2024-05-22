@@ -1,0 +1,100 @@
+Variaveis:
+    1. Crie um programa que calcule a soma de dois números.
+
+    2. Crie duas váriaveis cada uma com um nome diferente, exiba no console quantas letras/caracters tem cada nome.
+        Exemplo: 
+            Saída:
+            o nome "Pedro" possui 5 letras e o nome "João" possui 4 letras.
+
+Comparadores:
+    3. Crie 2 váriaveis numero1, numero2. 
+        Imprima no console "true/false" se o numero1 for maior que o numero2.
+        Depois imprima no console "true/false" se o numero1 é igual ao numero2.
+
+    4. Crie 2 váriveis palavra1 e palavra2.    
+        Imprima no console "true/false" se as palavras forem diferentes.
+
+Condicionais:
+    5. Crie 2 váriaveis idade, e habilitacao.
+        Atribua um boleano a várivel habilitacao.
+        Se for maior de idade e ter habilitacao, imprima "pode dirigir".
+        Se for menor de idade e ter habilitacao, imprima "ONDE CONSEGUIU ESSA HABILITAÇÃO?
+        Se for menor de idade e não ter habilitação, imprima "Não pode dirigir".
+
+    6. Crie um programa que exiba se um número é:
+        Se é Multiplo de 2 e 3.
+        Se é apenas multiplo de 2.
+        Se é apenas multiplo de 3.
+Strings:
+    7. Crie uma váriavel com uma string.
+        Imprima no console a string com todas letras minusculas
+        Depois imprima no console a string com todas as letras maisculas
+        Depois imprima no console só o primeiro caractere da string.
+
+        Exemplo:
+            valor da váriavel:
+                "abacate"
+            Saída:
+                abacate
+                ABACATE 
+                a
+    
+    8. Crie tres váriaveis nome, idade, comidaFavorita.
+        Imprima no console "Fulano tem 20 anos e sua comida favorita é pizza".
+
+Loops:
+    9. Crie um programa que faça um contagem regressiva de 10 até 0 e quando chegar no número 0 imprima "BOOOM".
+
+    10. Crie um programa que pergunte 3 números ao usuário e imprima no console a média dos 3 números.
+        Observação: utilize um loop "for" ou "while"
+
+Objetos:
+    11. Crie um objeto carro, o carro tem "nome", "marca" e "gasolina".
+        Atribua a propriedade "gasolina" true ou false.
+        Se o carro ter gasolina imprima "Ufa ainda tem gasolina".
+        Se o carro não ter gasolina imprima no console "O meu FIAT UNO está sem gasolina!!!"
+        
+    12. Crie 2 objetos pessoa1 e pessoa2, eles tem "nome" e "idade". Compare a idade deles e imprima no console a pessoa mais velha. 
+    Exemplo:
+        Adrian, 21 anos
+        Natam, 17 anos
+
+        "Adrian é mais velho(a) que Natam" 
+    
+
+Array:
+    13. Crie um array com 2 números, adicione mais 2 números ao array com o método correto, e por último imprima no console cada número um abaixo do outro.
+        Exemplo:
+            1
+            4
+            8
+            9
+     
+    14. Crie dois arrays o primeiro será uma lista de suas comidas favoritas e o segundo array uma lista com comidas favoritas de outra pessoa.
+
+    Imprima no console se existe alguma comida igual na lista1 e lista2.
+
+        Exemplo:
+            lista1: Banana, Lasanha, Pizza.
+            lista2: Macarrão, Maça, Banana.
+    
+            Se existirem comidas iguais: "As duas listas tem Banana."
+
+            Senão existir comidas iguais: "As listas não tem comidas iguais."
+
+Funções:
+    15. Crie uma função que receba como parametro duas strings. retorne uma string com: 
+            - as duas palavras concatenadas.
+            - com todas letras maiusculas 
+            - todas letras A/a substituidas por #
+
+        Exemplo: 
+            Entrada: 'banana', 'abacate'
+            Retorno: 'B#N#N##B#C#TE'
+
+    16. Crie uma função que receba como parametro um objeto "pessoa", como propriedade "nome" e "idade".
+
+    Calcule o ano de nascimento da pessoa e imprima no console:
+
+    Exemplo:
+        "fulano tem 24 anos e nasceu em 2000" 
