@@ -1,0 +1,41 @@
+body {
+    display: flex;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+button {
+    background-color: blueviolet;
+    border: none;
+    color: rgb(203, 203, 203); 
+    padding: 15px;
+    margin: 4px;
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+    max-width: 200px;
+
+}
+
+button:hover{
+    background-color: rgb(153, 63, 237);
+}
+
+.btnTecla {
+    background-color: rgb(42, 175, 175);
+}
+
+.btnTecla:hover {
+    background-color: rgb(77, 208, 208)
+}
+.time {
+    background-color: rgb(20, 141, 56);
+}
+
+.time:hover {
+    background-color: rgb(23, 185, 91)
+}

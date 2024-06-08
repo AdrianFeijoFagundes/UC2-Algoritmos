@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #87ee6d;
+}
+.game-container {
+    border: 2px solid #333;
+    border-radius: 0px 0px 10px 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #e2e3e2;
+}
+canvas {
+    display: block;
+    border: 1px solid black;
+    background-color: #333333;
+}
+button {
+    width: 50%;
+    height: 75%;
+    margin: 10px;
+    padding: 10px;
+    font-size: 16px;
+    background-color: #fafaf9;
+    border-radius: 10px;
+}
